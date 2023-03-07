@@ -1,3 +1,6 @@
+This project came about because I have a projector mounted above my bed in my dorm room at the University of Utah and its obnoxiously loud. It projects onto the white wall oposite my bed (very ideal), but this also means its only a few feet away from my head when it is on (not ideal). To fix this, I have set about trying to make it quieter, and in the process learning more about projectors than I orignially thought I would need to.
+
+
 Stock projector - 2 fans. Loud and overheats when my heat is on.
 
 MK1- Remove stock fans, replace with 4 50mm fans, each pair sharing the current of one stock fan.
